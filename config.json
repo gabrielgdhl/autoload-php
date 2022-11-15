@@ -1,0 +1,6 @@
+{
+    "autoload": { 
+        "Application\\": "app/",
+        "Source\\": "src/"
+    }
+}
